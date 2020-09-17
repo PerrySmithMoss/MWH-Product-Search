@@ -20,4 +20,5 @@ code. This data is then used to construct a table displaying all results. The se
 
 ## Screenshots
 ![index](https://user-images.githubusercontent.com/59027997/93500974-b6cc7d80-f90c-11ea-9e11-15d177de4fc3.png)
+---
 ![search-functionality](https://user-images.githubusercontent.com/59027997/93500978-b92ed780-f90c-11ea-8554-2a9d8269ab46.png)
