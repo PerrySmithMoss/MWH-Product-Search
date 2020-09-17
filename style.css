@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+.center-all {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.results-padding {
+    margin-top: 16px;
+}
+
+.form-group {
+    text-align: center !important;
+}
+
+.bg-info {
+    background-color: #2fa4e7 !important;
+}
